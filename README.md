@@ -71,15 +71,3 @@ suppose some person with a history of default applies for default history remova
 8.	Define two business rules appropriate for the database under consideration and implement the rules using trigger.
 (15)
 9.	Submission of the complete project document.	(10)
-
-# Extra Non-Credit assignment:
-Storage Manager:
-Implement Extendible Hash Table
-
-
-Task #1 - build a general purpose hash table that uses unordered buckets to store unique key/value pairs.
-
-Task #2 - LRU Page Replacement Policy :his component is responsible for tracking the usage of pages in the buffer pool.
-
-Task #3 - Buffer Pool Manager : implement the buffer pool manager in your system (BufferPoolManager). 
-It is responsible for fetching database pages from the DiskManager and storing them in memory. 
